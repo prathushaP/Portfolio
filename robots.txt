@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prathushapasam.com/sitemap.xml
+Sitemap: https://prathushap.github.io/Portfolio/sitemap.xml
