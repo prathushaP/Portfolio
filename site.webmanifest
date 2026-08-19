@@ -1,0 +1,25 @@
+{
+  "name": "Prathusha Pasam | Data Analyst",
+  "short_name": "Prathusha Pasam",
+  "description": "Portfolio of Prathusha Pasam, Data Analyst specializing in banking and healthcare analytics, SQL, Power BI, Python, Snowflake, and machine learning.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b0d12",
+  "theme_color": "#0b0d12",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/profile.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

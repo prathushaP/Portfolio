@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Prathusha Pasam">
+  <rect width="64" height="64" rx="14" fill="#0b0d12"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#7c9cff" stroke-width="2"/>
+  <text x="32" y="41" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" fill="#eef1f7">PP</text>
+</svg>

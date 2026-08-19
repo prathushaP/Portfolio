@@ -1,0 +1,5 @@
+# Update the Sitemap URL to your live domain after deploy
+User-agent: *
+Allow: /
+
+Sitemap: https://prathushapasam.com/sitemap.xml
